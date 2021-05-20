@@ -9,7 +9,6 @@ p {
 body::-webkit-scrollbar {
     background-color: rgb(35, 35, 35);
     -ms-overflow-style: none;
-    scrollbar-width: none;
     display: none;
 }
 
