@@ -1,13 +1,19 @@
 h1 {
-    font-family: sans-serif;
-    color: white
+    font-family: Helvetica, sans-serif;
+    color: white;
 }
 
 p {
-    font-family: sans-serif;
-    color: white
+    font-family: Helvetica, sans-serif;
+    color: white;
 }
 
 body {
-    background-color: rgb(35, 35, 35)
+    background-color: rgb(35, 35, 35);
+    overflow: scroll;
+}
+
+#intro_section {
+    background-color: midnightblue;
+    height: 100%;
 }
