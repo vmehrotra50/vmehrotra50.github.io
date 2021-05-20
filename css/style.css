@@ -7,8 +7,12 @@ p {
 }
 
 body::-webkit-scrollbar {
-    -ms-overflow-style: none;
     display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    
 }
 
 .section {
