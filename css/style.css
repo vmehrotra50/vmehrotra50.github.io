@@ -16,7 +16,7 @@ body {
 }
 
 #intro_section {
-    background-color: white;
+    height: 100vh;
 }
 
 #about_section {
