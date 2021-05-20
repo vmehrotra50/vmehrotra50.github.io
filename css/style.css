@@ -12,11 +12,12 @@ body::-webkit-scrollbar {
 
 body {
     -ms-overflow-style: none;
-    
+
 }
 
 .section {
-    margin-left: 0;
+    margin: 0;
+    padding: 0;
     width: 100%;
 }
 
