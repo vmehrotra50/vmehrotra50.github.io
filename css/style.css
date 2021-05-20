@@ -7,7 +7,6 @@ p {
 }
 
 body::-webkit-scrollbar {
-    background-color: rgb(35, 35, 35);
     -ms-overflow-style: none;
     display: none;
 }
@@ -18,16 +17,12 @@ body::-webkit-scrollbar {
 }
 
 #intro_section {
+    background-color: rgb(35, 35, 35);
     height: 100vh;
 }
 
-#about_section {
-    background-color: white;
-}
-
-#projects_section {
-    background-color: white;
-    
+#experience_section {
+    background-color: rgb(35, 35, 35);;
 }
 
 #title {
