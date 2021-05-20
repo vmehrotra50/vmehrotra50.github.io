@@ -12,7 +12,7 @@ body {
 }
 
 .section {
-    width: 100vh
+    width: 100vw;
 }
 
 #intro_section {
@@ -25,6 +25,7 @@ body {
 
 #projects_section {
     background-color: white;
+    
 }
 
 #title {
