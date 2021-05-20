@@ -1,11 +1,9 @@
-h1 {
+h1, p {
     font-family: Helvetica, sans-serif;
-    color: white;
 }
 
 p {
     font-family: Helvetica, sans-serif;
-    color: white;
 }
 
 body {
@@ -13,7 +11,22 @@ body {
     overflow-y: scroll;
 }
 
-#intro_section {
-    background-color: rgb(11, 11, 48);
-    height: 100vh;
+.section {
+    height: 100vh
+}
+
+#about_section {
+    background-color: white;
+}
+
+#projects_section {
+    background-color: white;
+}
+
+#title {
+    color: white;
+}
+
+#description {
+    color: white;
 }
