@@ -6,9 +6,11 @@ p {
     font-family: Helvetica, sans-serif;
 }
 
-body {
+body::-webkit-scrollbar {
     background-color: rgb(35, 35, 35);
-    overflow-y: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    display: none;
 }
 
 .section {
