@@ -12,7 +12,7 @@ body::-webkit-scrollbar {
 
 body {
     -ms-overflow-style: none;
-
+    background-color: rgb(35, 35, 35);
 }
 
 .section {
@@ -22,12 +22,7 @@ body {
 }
 
 #intro_section {
-    background-color: rgb(35, 35, 35);
     height: 100vh;
-}
-
-#experience_section {
-    background-color: rgb(35, 35, 35);;
 }
 
 #title {
