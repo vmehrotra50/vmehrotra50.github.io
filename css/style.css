@@ -25,6 +25,7 @@ body {
 
 #intro_section {
     height: 100vh;
+    background-color: white;
     animation-name: background;
     animation-duration: 5s;
 }
