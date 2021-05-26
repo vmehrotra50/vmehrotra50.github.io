@@ -56,6 +56,28 @@ body {
     animation-duration: 5s;
 } 
 
+/* Social media buttons */
+#intro_section a {
+    display: block;
+    float: left;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+.fa:hover {
+    border-radius: 55%;
+    padding: 25px;
+    font-size: 35px;
+    width: 35px;
+}
+
 /* 
 ANIMATIONS: 
 */
