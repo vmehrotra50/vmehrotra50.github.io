@@ -37,8 +37,6 @@ body {
     margin-right: auto;
     text-align: center;
     overflow: hidden;
-    display: table;
-    width: max-content;
     border-right: .15em solid white;
     white-space: nowrap;
     margin: 0 auto;
@@ -78,7 +76,7 @@ ANIMATIONS:
 /* Typing effect animations */
 @keyframes typing {
     from {width: 0;}
-    to {width: 100%;}
+    to {width: max-content;}
 }
 
 @keyframes blink {
