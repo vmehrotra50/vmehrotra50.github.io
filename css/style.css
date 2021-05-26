@@ -74,7 +74,7 @@ body {
 
 .fa:hover {
     animation-name: resize-buttons;
-    animation-duration: 1s;
+    animation-duration: .5s;
     animation-fill-mode: forwards;  
 }
 
@@ -110,6 +110,5 @@ ANIMATIONS:
 @keyframes resize-buttons {
     to {
         font-size: 31px;
-        width: 31px;
     }
 }
