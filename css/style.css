@@ -27,7 +27,7 @@ body {
     width: 100%;
 }
 
-#intro {
+#intro_section {
     height: 100vh;
 }
 
@@ -114,6 +114,6 @@ ANIMATIONS:
 /* Social media button animation */
 @keyframes resize-buttons {
     to {
-        font-size: 30.5px;
+        font-size: 1.01em;
     }
 }
