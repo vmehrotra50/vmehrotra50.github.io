@@ -27,11 +27,11 @@ body {
     width: 100%;
 }
 
-#intro-section {
+#intro {
     height: 100vh;
 }
 
-#intro-section h1 {
+#intro_section h1 {
     vertical-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -57,7 +57,7 @@ body {
 } 
 
 /* Social media buttons */
-#intro-section a {
+#intro_section a {
     display: block;
     float: left;
 }
@@ -78,7 +78,7 @@ body {
     animation-fill-mode: forwards;  
 }
 
-#social-media {
+#social_media {
     margin-left: auto;
     margin-right: auto;
 }
@@ -114,6 +114,6 @@ ANIMATIONS:
 /* Social media button animation */
 @keyframes resize-buttons {
     to {
-        font-size: 31px;
+        font-size: 30.5px;
     }
 }
