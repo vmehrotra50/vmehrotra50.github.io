@@ -75,6 +75,7 @@ body {
 .fa:hover {
     animation-name: resize-buttons;
     animation-duration: 1s;
+    animation-fill-mode: forwards;  
 }
 
 /* 
@@ -97,7 +98,7 @@ ANIMATIONS:
 /* Typing effect animations */
 @keyframes typing {
     from {width: 0;}
-    to {width: max-content;}
+    to {width: 100%;}
 }
 
 @keyframes blink {
@@ -108,8 +109,6 @@ ANIMATIONS:
 /* Social media button animation */
 @keyframes resize-buttons {
     to {
-        border-radius: 51%;
-        padding: 21px;
         font-size: 31px;
         width: 31px;
     }
