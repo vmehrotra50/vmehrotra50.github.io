@@ -114,6 +114,6 @@ ANIMATIONS:
 /* Social media button animation */
 @keyframes resize-buttons {
     to {
-        font-size: 1.01em;
+        font-size: 1.1em;
     }
 }
