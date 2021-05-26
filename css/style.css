@@ -29,12 +29,13 @@ body {
 
 #intro_section {
     height: 100vh;
-    background-color: white;
-    animation-name: background;
-    animation-duration: 5s;
 }
 
 #intro_section h1 {
+    vertical-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     overflow: hidden;
     border-right: .15em solid white;
     white-space: nowrap;
@@ -59,7 +60,8 @@ body {
 ANIMATIONS: 
 */
 
-/* Color background transitions */
+/*
+/* Color background transitions 
 @keyframes background {
     from {background-color: black;}
     to {background-color: white;}
@@ -69,6 +71,7 @@ ANIMATIONS:
     from{color: white;}
     to {color: black;}
 }
+*/
 
 /* Typing effect animations */
 @keyframes typing {
