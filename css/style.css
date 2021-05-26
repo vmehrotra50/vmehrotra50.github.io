@@ -37,6 +37,7 @@ body {
     margin-right: auto;
     text-align: center;
     overflow: hidden;
+    width: auto;
     border-right: .15em solid white;
     white-space: nowrap;
     margin: 0 auto;
