@@ -66,16 +66,15 @@ body {
     padding: 20px;
     font-size: 30px;
     width: 30px;
+    color: white;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
   }
 
 .fa:hover {
-    border-radius: 55%;
-    padding: 25px;
-    font-size: 35px;
-    width: 35px;
+    animation-name: resize-buttons;
+    animation-duration: 1s;
 }
 
 /* 
@@ -104,4 +103,14 @@ ANIMATIONS:
 @keyframes blink {
     from, to {border-color: transparent;}
     50% {border-color: white;}
+}
+
+/* Social media button animation */
+@keyframes resize-buttons {
+    to {
+        border-radius: 51%;
+        padding: 21px;
+        font-size: 31px;
+        width: 31px;
+    }
 }
