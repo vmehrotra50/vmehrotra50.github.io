@@ -32,6 +32,14 @@ body {
     position: relative;
 }
 
+#intro_section p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
 #h1_wrapper {
     width:fit-content;
     margin-left: auto;
@@ -85,9 +93,13 @@ body {
 }
 
 #social_media {
-    margin: 0 auto;
-    position:absolute;
+    margin: 0;
+    position: absolute;
     bottom:0;
+    top: 50%;
+    left:50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translateY(-50%, -50%);
 }
 
 /* 
