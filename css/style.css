@@ -46,7 +46,7 @@ body {
     margin: 0 auto; 
     letter-spacing: .15em; /* Adjust as needed */
     animation: 
-      typing 3.5s steps(20, end),
+      typing 3.5s steps(12, end),
       blink .75s step-end infinite;
 }
 
