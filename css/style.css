@@ -44,7 +44,6 @@ body {
     border-right: .15em solid white; 
     white-space: nowrap; 
     margin: 0 auto; 
-    letter-spacing: .075em; /* Adjust as needed */
     animation: 
       typing 4s steps(12) 1s 1 normal both,
       blink .75s steps(12) infinite normal;
