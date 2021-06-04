@@ -31,7 +31,11 @@ body {
     height: 100vh;
 }
 
-#intro_section h1 {
+#h1_wrapper {
+    width:fit-content;
+}
+
+#h1_wrapper h1 {
     vertical-align: center;
     margin-left: auto;
     margin-right: auto;
