@@ -89,7 +89,7 @@ body {
 
 .fa:hover {
     animation-name: resize-buttons;
-    animation-duration: .5s;
+    animation-duration: .1s;
     animation-fill-mode: forwards;  
 }
 
