@@ -76,7 +76,7 @@ body {
 } 
 
 /* Social media buttons */
-#intro_section a {
+#social_media a {
     display: block;
     float: left;
 }
@@ -100,6 +100,18 @@ body {
 #social_media {
     margin: 0 auto;
 }
+
+#intro_content_wrapper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#down_arrow i {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
 
 /* 
 ANIMATIONS: 
