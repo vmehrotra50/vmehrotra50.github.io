@@ -37,13 +37,14 @@ body {
 
 #intro_section {
     height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
     position: relative;
 }
 
 #content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: relative;
     z-index: 100;
 }
 
