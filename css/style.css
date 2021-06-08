@@ -27,6 +27,7 @@ body::-webkit-scrollbar {
 body {
     -ms-overflow-style: none;
     /*background-color: rgb(35, 35, 35);*/
+    background-color: pink;
 }
 
 .section {
@@ -55,7 +56,6 @@ body {
     top: 0;
     left: 0;
     z-index: -100;
-    background-color: midnightblue;
 }
 
 /*
