@@ -137,6 +137,10 @@ body {
     width: auto;
 }
 
+#about_section {
+    margin-top: 10px;
+}
+
 /* 
 ANIMATIONS: 
 */
