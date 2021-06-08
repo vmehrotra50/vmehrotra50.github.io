@@ -91,7 +91,7 @@ body {
     border-radius: 50%;
   }
 
-.fa:hover {
+#social_media a:hover {
     animation-name: resize-buttons;
     animation-duration: .1s;
     animation-fill-mode: forwards;  
