@@ -102,9 +102,8 @@ body {
 }
 
 #intro_content_wrapper {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width:100%;
+    text-align: center;
 }
 
 #down_arrow {
