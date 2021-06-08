@@ -38,6 +38,9 @@ body {
 #intro_section {
     height: 100vh;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 /*
