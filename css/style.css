@@ -107,11 +107,6 @@ body {
     margin-right: auto;
 }
 
-#down_arrow i {
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-}
-
 
 /* 
 ANIMATIONS: 
