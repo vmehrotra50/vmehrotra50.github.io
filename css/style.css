@@ -107,7 +107,7 @@ body {
 #intro_content_wrapper {
     width:100%;
     text-align: center;
-    margin-top: 45vh;
+    margin-top: 20vh;
 }
 
 #down_arrow {
@@ -121,6 +121,7 @@ body {
     width: 100px;
     height: 100px;
     position: relative;
+    text-align: center;
     overflow: hidden;
     border-radius: 50%;
     margin-top: 7.5%;
