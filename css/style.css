@@ -30,6 +30,10 @@ body {
     /*background-color: rgb(35, 35, 35);*/
 }
 
+label {
+    margin-left: 25%;
+}
+
 progress {
     float:right;
     margin-right: 50%;
