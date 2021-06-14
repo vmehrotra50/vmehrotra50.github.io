@@ -51,6 +51,10 @@ progress {
     background-color: transparent;
 }
 
+#awards_section {
+    margin-bottom: 10px;
+}
+
 #content {
     height: 100vh;
     display: flex;
