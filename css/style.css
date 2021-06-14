@@ -39,6 +39,24 @@ progress {
     margin-right: 50%;
 }
 
+.box {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+#projbox1 {
+    background: #ff004c;
+}
+
+#projbox2 {
+    background: #0099ff;
+}
+
+#projbox3 {
+    background: #ffbf00;
+}
+
 .section {
     margin: 0;
     padding: 0;
