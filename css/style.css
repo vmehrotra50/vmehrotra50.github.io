@@ -30,6 +30,11 @@ body {
     /*background-color: rgb(35, 35, 35);*/
 }
 
+progress {
+    float:right;
+    margin-right: 50%;
+}
+
 .section {
     margin: 0;
     padding: 0;
